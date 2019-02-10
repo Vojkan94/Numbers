@@ -1,0 +1,10 @@
+.selected-number{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 8.5%;
+    height: 90%;
+    color:white;
+    margin: 0.5% 0.5%;
+    border-radius: 50%;
+}

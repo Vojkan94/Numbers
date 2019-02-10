@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Roboto Condensed', sans-serif;
+  src: url('./View/assets/fonts/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto Condensed', sans-serif;
+  src: url('./View/assets/fonts/RobotoCondensed-Bold.ttf');
+  font-weight: bold;
+}
+*{
+  box-sizing: border-box;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+}

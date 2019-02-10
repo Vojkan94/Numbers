@@ -1,0 +1,47 @@
+.flex-container{
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 500px;
+    background-color: rgb(235, 243, 247);
+}
+.wrapper{
+    width: 550px;
+    margin: 5%;
+    height: 450px;
+}
+.number{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.max-error{
+    margin-left: 1%;
+    color: red;
+}
+.random-6{
+    float: right;
+    margin-right: 19%;
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 2%;
+    cursor: pointer;
+    text-align: center;
+}
+.reset-btn{
+    margin-left: 3%;
+    float: left;
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 2%;
+    cursor: pointer;
+    text-align: center;
+}
