@@ -1,6 +1,6 @@
-# Numbers
+# Numbers App
 
-Numbers is a simple SPA that allows you to select 10 numbers by yourself or 6 numbers random, you can reset numbers too.
+Numbers App is a simple SPA that allows you to select 10 numbers by yourself, 6 numbers random, select whole column or reset all numbers.
  
 DEMO : [Numbers](http://numbers.vojkantrojanovic.com)
 
